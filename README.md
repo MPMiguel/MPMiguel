@@ -27,13 +27,6 @@ My goal is to contribute to the development of quality web applications.</div>
 - 🖥️ I’m currently learning Full Stack at 4Geeks Academy and taking the IBM Python course  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
