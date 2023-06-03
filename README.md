@@ -48,10 +48,10 @@ My goal is to contribute to the development of quality web applications.</div>
 </div>  
 
 <br/>  
-
+<table><tr><td valign="top" width="50%">
 
 ## Github Stats  
-
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MPMiguel&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
