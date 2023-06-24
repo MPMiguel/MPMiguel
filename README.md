@@ -11,8 +11,7 @@
 
 
 ### Glad to see you here!  
-<div align="center">I''m a professional with 4 years of experience in logistics and the automotive industry, looking to transition to Full Stack programming.  
-My goal is to contribute to the development of quality web applications.</div>  
+<div align="center">I'm a professional with 4 years of experience in logistics and the automotive industry, looking to transition to full-stack programming. My goal is to contribute to the development of quality web applications.</div>  
   
 
 <br/>  
