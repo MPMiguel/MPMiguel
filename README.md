@@ -21,7 +21,7 @@
 
 
 ### About   
-- 🖥️ I’m currently learning Full Stack at 4Geeks Academy and taking the IBM Python course  
+- 🖥️ I’m currently learning Full Stack at 4Geeks Academy 
 
 
 
